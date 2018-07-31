@@ -14,4 +14,4 @@
 清理TaskManager             
 
 ## Task Status Flow      
-![]()                   
+![](https://github.com/xiong-ang/TaskManager/blob/master/TaskManager.jpg?raw=true)                   
